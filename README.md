@@ -6,16 +6,16 @@
 
 <br><br/>
 
-<h3 align="center">Desenvolvedor de Sistemas 💻 | Entusiasta de IA 🧠<h3/>
+<h3 align="center">Desenvolvedor de Sistemas 💻 | Entusiasta de IA 🧠</h3>
 <br/>
 
 <div align="center">
- 
- 🔹 Apaixonado por **desenvolvimento de software** e **inteligência artificial**.  
- 🔹 Experiência com **desenvolvimento full-stack** e **metodologias ágeis (Scrum)**.  
- 🔹 Explorando o universo da **inteligência artificial**, com foco em aprender e aplicar no futuro.  
- 🔹 Sempre em busca de aprender novas tecnologias e enfrentar desafios que ampliam meus limites.
+  🔹 Apaixonado por <strong>desenvolvimento de software</strong> e <strong>inteligência artificial</strong>.<br>
+  🔹 Experiência com <strong>desenvolvimento full-stack</strong> e <strong>metodologias ágeis (Scrum)</strong>.<br>
+  🔹 Explorando o universo da <strong>inteligência artificial</strong>, com foco em aprender e aplicar no futuro.<br>
+  🔹 Sempre em busca de aprender novas tecnologias e enfrentar desafios que ampliam meus limites.<br><br/>
 
+  📂 <a href="https://github.com/JuanCursino/Bertoti/blob/main/portfólio/portfolio.md" target="_blank"><strong>Veja meu portfólio completo aqui</strong></a>
 </div>
 
 
