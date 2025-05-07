@@ -46,7 +46,7 @@
 <br/>
 <div align="center">
     <h3>🌐 Front-end</h3>
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,html,vuejs,vuetify" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,figma,html,vuejs,vuetify,nodejs,ts" /><br>
     <h3>⚙️ Back-end</h3>
     <img src="https://skillicons.dev/icons?i=flask,java,postgres,javascript,mysql,nodejs,opencv,python,spring,typescript,maven" /><br>
     <h3>🔧 DevOps & Tools</h3>
@@ -56,17 +56,4 @@
 <br><br/>
 <br><br/>
 
-<!--
-**JuanCursino/JuanCursino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
