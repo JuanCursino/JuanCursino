@@ -11,7 +11,7 @@
 
 <div align="center">
   🔹 Apaixonado por <strong>desenvolvimento de software</strong> e <strong>inteligência artificial</strong>.<br>
-  🔹 Experiência com <strong>desenvolvimento full-stack</strong> e <strong>metodologias ágeis (Scrum)</strong>.<br>
+  🔹 Experiência com <strong>desenvolvimento full-stack</strong> e <strong>metodologias ágeis</strong>.<br>
   🔹 Explorando o universo da <strong>inteligência artificial</strong>, com foco em aprender e aplicar no futuro.<br>
   🔹 Sempre em busca de aprender novas tecnologias e enfrentar desafios que ampliam meus limites.<br><br/>
 
