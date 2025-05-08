@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JuanCursino.JuanCursino" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=80&duration=4000&pause=1000&lines=Olá,+Mundo!+👋;Eu+Sou+Juan+Cursino!+🧑‍💻;Desenvolvedor+de+Sistemas+💻;Explorador+de+IA+🧠;Sempre+em+busca+de+novos+desafios!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=80&duration=4000&pause=1000&lines=Olá,+Mundo!+👋;Eu+Sou+Juan+Cursino!+🧑‍💻;Desenvolvedor+de+Sistemas+💻;Explorador+de+IA+🧠;Sempre+em+busca+de+novos+desafios!&color=3474a4" />
 </h1>
 
 <br><br/>
@@ -34,11 +34,12 @@
 <h2 align="center">📊 Status 📊</h2>
 <br>
 <div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=JuanCursino&theme=react" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=JuanCursino&count_private=true&show_icons=true&theme=react" alt="readme stats" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=JuanCursino&theme=nightowl" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=JuanCursino&count_private=true&show_icons=true&theme=nightowl" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCursino&hide=html&langs_count=8&layout=compact&theme=react" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCursino&hide=html&langs_count=8&layout=compact&theme=nightowl" alt="top langs" />
 </div>
+
 
 <br><br/>
 
